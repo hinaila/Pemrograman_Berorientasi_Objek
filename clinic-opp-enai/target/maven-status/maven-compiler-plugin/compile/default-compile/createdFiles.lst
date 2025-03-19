@@ -1,0 +1,6 @@
+unguided\entities\Appointment.class
+unguided\entities\Main.class
+unguided\entities\DataChecker.class
+unguided\entities\Doctor.class
+unguided\entities\Patient.class
+com\mycompany\clinic\opp\enai\ClinicOppEnai.class
